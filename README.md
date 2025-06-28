@@ -1,4 +1,4 @@
-![Travel](https://github.com/user-attachments/assets/ec925447-0134-4771-9396-6ec75b6c93a8)
+![Travel](https://github.com/user-attachments/assets/ae6b8d0d-aa1e-45c3-bacd-c2c32ceca2fa)
 
 [English Traveller](https://chat.openai.com/g/g-Zpi4RMfze-english-travelle) is a custom GPT made to help users explore and plan travel to countries where English is not the national language but is still widely spoken. It offers practical advice on navigating these destinations with ease, highlighting areas where English-speaking tourists will feel most comfortable. It also provides insights into local culture, must-see attractions, and tips for respectful and informed travel. The goal is to make international travel smoother and more enjoyable for English speakers while promoting cultural awareness and sensitivity.
 
