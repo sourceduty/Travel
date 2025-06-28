@@ -35,3 +35,5 @@ Also, [Travel Computer](https://chatgpt.com/g/g-67929af5a8f0819191052468cc4bc3df
 [Culture Import](https://chatgpt.com/g/g-67d9e15f4d548191881d8b4b8d4dcbfb-culture-import)
 <br>
 [International City](https://chatgpt.com/g/g-67fa4b62ddac8191ab7486f760f2fae7-international-city)
+<br>
+[National Quality](https://chatgpt.com/g/g-677ba2d491448191a6c4c4797b9a48a7-national-quality)
