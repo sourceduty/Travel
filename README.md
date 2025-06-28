@@ -31,3 +31,5 @@ Also, [Travel Computer](https://chatgpt.com/g/g-67929af5a8f0819191052468cc4bc3df
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
 <br>
 [Property Locale](https://chatgpt.com/g/g-Vag7qPkFg-property-locale)
+<br>
+[Culture Import](https://chatgpt.com/g/g-67d9e15f4d548191881d8b4b8d4dcbfb-culture-import)
