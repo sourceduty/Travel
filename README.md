@@ -29,3 +29,5 @@ Also, [Travel Computer](https://chatgpt.com/g/g-67929af5a8f0819191052468cc4bc3df
 [Travel Organizer](https://chat.openai.com/g/g-NEe3uxaT2-travel-organizer)
 <br>
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
+<br>
+[Property Locale](https://chatgpt.com/g/g-Vag7qPkFg-property-locale)
